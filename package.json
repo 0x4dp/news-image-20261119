@@ -1,0 +1,10 @@
+{
+  "name": "news-image-20261119",
+  "version": "1.0.0",
+  "description": "make.fun bounty entry: Sum up 19 November's world news in one image",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
